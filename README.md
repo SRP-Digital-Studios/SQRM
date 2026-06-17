@@ -8,6 +8,12 @@ Developed and maintained by SRP Digital Studios.
 
 ---
 
+## Official Domain
+
+https://sqrm.srpdigitalstudios.qzz.io
+
+---
+
 ## Features
 
 ### Restaurant Owner Features
@@ -183,11 +189,7 @@ Version: v1.0.0
 
 ---
 
-## Official Domain
 
-https://sqrm.srpdigitalstudios.qzz.io
-
----
 
 ## Company
 
