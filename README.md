@@ -31,7 +31,7 @@ https://sqrm.srpdigitalstudios.qzz.io
 * Analytics Dashboard
 * CSV Export
 * Excel Export
-* Professional Bill & Receipt Generation
+* Professional Bill & Receipt Generation (not offcial and only for user)
 
 ### Customer Features
 
@@ -169,15 +169,6 @@ Optimized for:
 * 480px
 * Tablets
 * Desktop Devices
-
----
-
-## SEO Features
-
-* Meta Tags
-* Open Graph Tags
-* JSON-LD Structured Data
-* Search Engine Friendly URLs
 
 ---
 
