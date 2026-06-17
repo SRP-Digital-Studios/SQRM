@@ -196,6 +196,9 @@ Copyright © 2026 SRP Digital Studios.
 
 All Rights Reserved.
 
-This software and its source code are proprietary software owned by SRP Digital Studios.
+SQRM (Saksham QR Menu) is a project developed and maintained by SRP Digital Studios.
 
-Unauthorized copying, modification, distribution, resale, reverse engineering, or commercial use of this software is strictly prohibited without prior written permission from SRP Digital Studios.
+The branding, project structure, documentation, and custom modifications are the property of SRP Digital Studios.
+
+Unauthorized redistribution of this project as a competing commercial product without permission is prohibited.
+
